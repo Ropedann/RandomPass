@@ -1,0 +1,10 @@
+F:\MyProgramm\RandomPass\RandomPass\bin\Debug\RandomPass.exe.config
+F:\MyProgramm\RandomPass\RandomPass\bin\Debug\RandomPass.exe
+F:\MyProgramm\RandomPass\RandomPass\bin\Debug\RandomPass.pdb
+F:\MyProgramm\RandomPass\RandomPass\obj\Debug\RandomPass.csprojResolveAssemblyReference.cache
+F:\MyProgramm\RandomPass\RandomPass\obj\Debug\RandomPass.Form1.resources
+F:\MyProgramm\RandomPass\RandomPass\obj\Debug\RandomPass.Properties.Resources.resources
+F:\MyProgramm\RandomPass\RandomPass\obj\Debug\RandomPass.csproj.GenerateResource.cache
+F:\MyProgramm\RandomPass\RandomPass\obj\Debug\RandomPass.csproj.CoreCompileInputs.cache
+F:\MyProgramm\RandomPass\RandomPass\obj\Debug\RandomPass.exe
+F:\MyProgramm\RandomPass\RandomPass\obj\Debug\RandomPass.pdb
